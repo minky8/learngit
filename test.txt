@@ -1,0 +1,1 @@
+git is a mutable index called stage
